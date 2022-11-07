@@ -1,0 +1,50 @@
+body {
+  background-color: blanchedalmond;
+  background-image: url('https://thumbs.dreamstime.com/b/paragliding-sky-paraglider-tandem-flying-over-sea-mountains-sunset-aerial-view-blue-lagoon-oludeniz-mugla-200108697.jpg');
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+    Arial, sans-serif;
+  margin: auto;
+  max-width: 38rem;
+  padding: 2rem;
+}
+
+.header {
+  padding: 60px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  text-align: center;
+  background: #e0a488;
+  color: white;
+  font-size: 20px;
+}
+
+h1 {
+   
+  font-style: italic;
+  font-size: 60px;
+}
+
+
+button {
+  width: 150px;
+  padding: 10px;
+  border: none;
+  -webkit-border-radius: 5px; 
+  -moz-border-radius: 5px; 
+  border-radius: 5px; 
+  background-color: #f03444;
+  font-size: 16px;
+  color: #fff;
+  cursor: pointer;
+  }
+  button:hover {
+  background-color: #e67dc6;
+  }
+
+  h3 {
+  
+    font-family: Apple Chancery, cursive;
+    font-size: 10px;
+  }
